@@ -1,4 +1,5 @@
 <?xml version="1.0" ?>
+##multi-AUV version
 <launch>
 	<!-- If mode = sim: Simulated AUV with MBES and control in loaded bathymetric map 
 	If mode = gt: reproduce Hugin survey and construct map of real bathymetry --> 
